@@ -3,14 +3,17 @@
     src: url("Movavi.ttf") format('truetype');
 }
 
-header {
-    margin: 0;
-    padding: 0;
+.header {
     box-sizing: border-box;
+}
+
+.search-space {
+    padding-top: 40px;  
 }
 
 h1 {
     margin-top: 50px;
     margin-bottom: 10px;
     font-family: "Movavi";
+    color: var(--tg-theme-link-color);
 }
