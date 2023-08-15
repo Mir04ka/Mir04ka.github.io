@@ -1,4 +1,7 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Kanit:wght@300&display=swap');*/
+@font-face {
+    font-family: F16;
+    src: url("../mir04ka.github.io/Movavi.ttf") format('truetype');
+}
 
 header {
     margin: 0;
@@ -9,5 +12,4 @@ header {
 h1 {
     margin-top: 50px;
     margin-bottom: 10px;
-    font-family: Arial, Helvetica, sans-serif;
 }
