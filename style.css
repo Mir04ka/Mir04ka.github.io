@@ -17,3 +17,8 @@ h1 {
     font-family: "Movavi";
     color: var(--tg-theme-link-color);
 }
+
+.text {
+    font-family: "Movavi";
+    color: var(--tg-theme-text-color);
+}
