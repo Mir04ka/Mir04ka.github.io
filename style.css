@@ -3,6 +3,10 @@
     src: url("Movavi.ttf") format('truetype');
 }
 
+body {
+    background-color: var(--tg-theme-bg-color);
+}
+
 .header {
     box-sizing: border-box;
 }
